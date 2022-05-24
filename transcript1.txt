@@ -3,4 +3,6 @@ WELCOME PLAYER: '?'
 
 Player?: "hello?"
 Player?: "Is there anybody out there?!"
+player?: "..."
 Player?: "HELLO..?!"
+Player?: "ARGHH!!!"
