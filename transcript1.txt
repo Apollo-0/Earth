@@ -1,6 +1,5 @@
 NEW PLAYER JOINED THE LOBBY
 WELCOME PLAYER: '?'
-
 Player?: "hello?"
 Player?: "Is there anybody out there?!"
 player?: "..."
