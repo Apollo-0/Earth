@@ -1,28 +1,24 @@
-print()
-#new player joined the lobby
-print(transcript1[0])
-time.sleep(1)
-#welcome player : '?'
-print(transcript1[1])
-time.sleep(2)
-print()
-#hello?
-print(transcript1[2])
-time.sleep(2)
-#is anybody out there?
-print(transcript1[3])
-time.sleep(2)
-#...
-print(transcript1[4])
-time.sleep(3)
-Player: hello!"
+*************************************************
+Chapter 00
 
-*from behind*
+NEW PLAYER JOINED THE LOBBY
+WELCOME PLAYER: '?'
+
+
+Player?: "Hello?"
+Player?: "Is anybody out there?"
+Player?: "..."
+Player?: "Hello!"
+
+    *from behind*
 
 User06&£%?*x1: "hello."
 
 Player?: "ARGG!"
 
-*stares*
+    *stares*
 
 User06&£%?*x1: "why are you yelling?"
+
+
+*************************************************
